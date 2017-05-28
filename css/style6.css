@@ -22,3 +22,14 @@
     border: 3px solid green;
     
 }
+@media (max-width: 768px) {
+    .col {width: 50%;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .col {width: 100%;
+    }
+
+}
